@@ -29,7 +29,7 @@ Installation:
 
 ## Motivation <a name="motivation"></a>
 
-This project was made for an an Udacity Nanodegree project. The study focused on data from real messages that were sent during disaster events. Our aim was to create a machine learning pipeline to categorize these events so that they can be sent send to an appropriate disaster relief agency.
+This project was made for an an Udacity Nanodegree project. The study focused on data from real messages that were sent during disaster events. Our aim was to create a machine learning pipeline to categorize these events so that they can be sent to an appropriate disaster relief agency.
 
 ## File Description <a name="files"></a>
 
