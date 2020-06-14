@@ -5,9 +5,7 @@
 1. [Prerequisites and Installation](#Prerequisites)
 2. [Motivation](#motivation)
 3. [File Description](#files)
-4. [Conclusion](#conclusion)
-5. [Detailed Results](#results)
-6. [Acknowledgments](#licensing)
+4. [Acknowledgments](#licensing)
 
 ## Prerequisites and Installation <a name="Prerequisites"></a>
 
