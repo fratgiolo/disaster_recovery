@@ -35,8 +35,8 @@ This project was made for an an Udacity Nanodegree project. The study focused on
 
 ## File Description <a name="files"></a>
 
-****data/process_data.py : Python code containing ETL process </br>
-****data/train_classifier.py : Python code running the Machine Learning Pipeline </br>
+**data/process_data.py** : Python code containing the ETL process for this project </br>
+**data/train_classifier.py** : Python code running the Machine Learning Pipeline </br>
 **data/disaster_categories.csv**: CSV containing message categories </br>
 **data/disaster_messages.csv**: CSV containing the disaster messages </br>
 
